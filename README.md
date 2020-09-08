@@ -6,8 +6,8 @@ https://jamesrledoux.com/projects/gutenberg-recommender-system/
 
 
 ## References
-https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html \n
-https://jamesrledoux.com/projects/gutenberg-recommender-system/
-https://towardsdatascience.com/building-a-content-based-book-recommendation-engine-9fd4d57a4da
-https://www.geeksforgeeks.org/text-preprocessing-in-python-set-1/
-https://www.geeksforgeeks.org/text-preprocessing-in-python-set-2/
+https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html <br />
+https://jamesrledoux.com/projects/gutenberg-recommender-system/ <br />
+https://towardsdatascience.com/building-a-content-based-book-recommendation-engine-9fd4d57a4da <br />
+https://www.geeksforgeeks.org/text-preprocessing-in-python-set-1/ <br />
+https://www.geeksforgeeks.org/text-preprocessing-in-python-set-2/ 
